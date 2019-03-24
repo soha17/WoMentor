@@ -60,6 +60,8 @@ public class MyExpandableListAdapter extends BaseExpandableListAdapter {
         TextView textView = convertView.findViewById(R.id.textView);
         textView.setText(String.valueOf(getGroup(groupPosition)));
 
+        //hi
+
         return convertView;
     }
 
