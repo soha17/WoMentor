@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:paddingLeft="45dp"
     android:paddingStart="45dp"
+    android:backgroundTint="@color/colorPrimary"
     >
     <TextView
         android:layout_width="wrap_content"
